@@ -9,9 +9,9 @@
 
 ### About
 
--  🔭**Profession** Java Development  :fire:    
+-  🔭**Profession :** Java Development  :fire:    
 -  🌱**Languages :** Java, ASM, HTML5,CSS,JS
--  🚀**Skill :** Redis,RabbitMQ,MySql,Netty,Design mode,JVM,Spring Cloud...
+-  🚀**Skills :** Redis,RabbitMQ,MySql,Netty,Design mode,JVM,Spring Cloud...
 -  🤔**Hobbies :** Sing , Music :headphones: & Games :video_game:
 -  ⚡**Fact :** Plagiarism is the sincerest form of flattery :heart:
 -  💬**Contact me :** [Wu Hongyun](mailto:451863397@qq.com)
