@@ -13,7 +13,7 @@
 -  🌱**Languages :** Java, ASM, HTML5,CSS,JS
 -  🚀**Skill :** Redis,RabbitMQ,MySql,Netty,Design mode,JVM,Spring Cloud...
 -  🤔**Hobbies :** Sing , Music :headphones: & Games :video_game:
--  ⚡**Fact :** First solve the problem, then write the code :heart:
+-  ⚡**Fact :** Plagiarism is the sincerest form of flattery :heart:
 -  💬**Contact me :** [Wu Hongyun](mailto:451863397@qq.com)
 
 ### Wait for you
